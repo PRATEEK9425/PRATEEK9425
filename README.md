@@ -10,26 +10,26 @@
 - 🔭 I’m currently working on *MySkill😄*
 - 🌱 I’m currently learning ** (Full-Stack Web Development)**
 - 💬 Ask me about *Front-End*
-- 👨‍💻 Some of my projects are available at [My Portfolio](https://aayan269.github.io)
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1gL1gDwbvLJTDfTCTikjEUqqEh5PVU-6x/view?usp=share_link)
-- 📫 How to reach me: ...*ahmadaayan269@gmail.com*
-- 😄 Pronouns: ...@aayan
+- 👨‍💻 Some of my projects are available at [My Portfolio](https://PRATEEK9425.github.io)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/15LwaU3LUUCCqo3krxsB242Q4rj7bIvsw/view?usp=share_link)
+- 📫 How to reach me: ...*nmpratik9425@gmail.com*
+- 😄 Pronouns: ...@Prateek
 - ⚡ Fun fact: ...Always smile😄 in tough situation
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
                                                        
 <h2><i>My GitHub Stats</i></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayan269&label=Profile%20views&color=0e75b6&style=flat" alt="aayan269" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRATEEK9425&label=Profile%20views&color=0e75b6&style=flat" alt="PRATEEK9425" /> </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=aayan269&show_icons=true&locale=en&theme=dark" alt="aayan269"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayan269&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="aayan269" height="139" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=PRATEEK9425&show_icons=true&locale=en&theme=dark" alt="PRATEEK9425"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATEEK9425&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="aayan269" height="139" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=aayan269&theme=xcode" height ="307"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=PRATEEK9425&theme=xcode" height ="307"/>
 
-![snake gif](https://github.com/aayan269/aayan269/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/PRATEEK9425/PRATEEK9425/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
