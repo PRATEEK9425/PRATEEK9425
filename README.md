@@ -27,7 +27,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATEEK9425&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="aayan269" height="139" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=PRATEEK9425&theme=xcode" height ="307"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=PRATEEK9425&theme=xcode" height ="307"/> -->
 
 <!-- ![snake gif](https://github.com/PRATEEK9425/PRATEEK9425/blob/output/github-contribution-grid-snake.svg) -->
 
