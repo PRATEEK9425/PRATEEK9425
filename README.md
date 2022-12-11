@@ -29,7 +29,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=PRATEEK9425&theme=xcode" height ="307"/>
 
-![snake gif](https://github.com/PRATEEK9425/PRATEEK9425/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/PRATEEK9425/PRATEEK9425/blob/output/github-contribution-grid-snake.svg) -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
